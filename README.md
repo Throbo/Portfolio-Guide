@@ -45,6 +45,6 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
 
 # Extra
 
-Please checkout my [Linkedin](#www.linkedin.com/in/nicholas-robson-aab3b622a) if you made it this far ⭐
+Please checkout my [Linkedin](https://www.linkedin.com/in/nicholas-robson-aab3b622a/) if you made it this far ⭐
 
  [Back to Top](#nicks-portfolio)
