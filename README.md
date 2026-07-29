@@ -13,7 +13,7 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
 
  | Project Link | Completion Date | Tools | Description |
  |---|---|---|---|
- | 🛒 [Brazilian Ecom](#https://github.com/Throbo/Ecom-Analysis) | Aug 2026 | Data Wrangling, Web Scrapping & EDA | Searching for trends amongst multiple datasets to dervive key insights |
+ | 🛒 [Brazilian Ecommerce analysis](https://github.com/Throbo/Ecom-Analysis) | Aug 2026 | Data Wrangling, Web Scrapping & EDA | Searching for trends amongst multiple datasets to dervive key insights |
 
  ***
 
