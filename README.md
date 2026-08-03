@@ -27,9 +27,9 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
 
  #  Tableau
 
- | Project Link | Completion Date | Tools | Description |
- |---|---|---|---|
-
+ | Project Link | Description | Dashboard |
+ |---|---|---|
+ | 💉 [COVID-19 cases, deaths, and vaccination across the UK](https://github.com/Throbo/SQL-Analysis) | Inspired by [Alex The Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2) with a twist, Analysis of UK national and regional cases & how the diffrent UK's four nations differed in their devolved health policy differnces Using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/nicholas.robson/viz/Coivd-19Analysis/HowdidCOVID-19casesdeathsandvaccinationrolloutdifferacrosstheUKsfournationsanddiddevolvedhealthpolicydifferencesshowupinthedata)
  ***
 
  # Guides
@@ -38,7 +38,7 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
 
  There are loads of reasources online for SQL these are some of my Go to's:
 
- [Enochtangg quck-SQL-cheatsheet](#https://github.com/enochtangg/quick-SQL-cheatsheet#find)
+ [Enochtangg quck-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet#find)
 
  ## 🐍 Python Gudies
 
