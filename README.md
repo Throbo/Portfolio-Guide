@@ -14,7 +14,7 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
 
  | Project Link | Completion Date | Tools | Description |
  |---|---|---|---|
- | 🛒 [Brazilian Ecommerce analysis](https://github.com/Throbo/Ecom-Analysis) | Aug 2026 | Data Wrangling, Web Scrapping & EDA | Searching for trends amongst multiple datasets to dervive key insights |
+ | 🛒 [Brazilian Ecommerce analysis](https://github.com/Throbo/Ecom-Analysis) | Aug 2026 | Data Wrangling, Web Scrapping & EDA | Exploring KPIs, Logistics, and Economics of Brazil using Olist's Kaggle datasets and the World GDP by cities dataset from Wikipedia. |
 
  ***
 
@@ -38,7 +38,8 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
 
  | Project Link | Description | Dashboard |
  |---|---|---|
- | 🛒 [Brazilian Ecommerce analysis](https://github.com/Throbo/Ecom-Analysis) | Exploring KPIs, Logistics, and Economics of Brazil using Olist's Kaggle datasets and the World GDP by cities dataset from Wikipedia. | [PowerBI](https://app.powerbi.com/groups/me/reports/c3643e8b-db62-4466-b534-cb9ab4e96f59/36f6907ec31c40196c27?experience=power-bi) [PDF](./Brazilian%20Ecommerce%20Analysis.pdf)
+ | 🛒 [Brazilian Ecommerce analysis](https://github.com/Throbo/Ecom-Analysis) | Exploring KPIs, Logistics, and Economics of Brazil using Olist's Kaggle datasets and the World GDP by cities dataset from Wikipedia. | [PowerBI](https://app.powerbi.com/groups/me/reports/c3643e8b-db62-4466-b534-cb9ab4e96f59/36f6907ec31c40196c27?experience=power-bi) [PDF](https://github.com/Nick03Ro/Ecom-Analysis/blob/main/Brazilian%20Ecommerce%20Analysis.pdf)
+ 
  ***
 
  # Guides
