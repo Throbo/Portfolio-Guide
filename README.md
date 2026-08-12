@@ -15,6 +15,7 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
  | Project Link | Completion Date | Tools | Description |
  |---|---|---|---|
  | 🛒 [Brazilian Ecommerce analysis](https://github.com/Throbo/Ecom-Analysis) | Aug 2026 | Data Wrangling, Web Scrapping & EDA | Exploring KPIs, Logistics, and Economics of Brazil using Olist's Kaggle datasets and the World GDP by cities dataset from Wikipedia. |
+ | 🎄 [Simulated Christmas Stock]() | Aug 2026 | ??? | ??? | |
 
  ***
 
@@ -31,6 +32,7 @@ Thanks for taking a look! This is a cheat sheet for my data analysis. 😄
  | Project Link | Description | Dashboard |
  |---|---|---|
  | 💉 [COVID-19 cases, deaths, and vaccination across the UK](https://github.com/Throbo/SQL-Analysis) | Inspired by [Alex The Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2) with a twist, Analysis of UK national and regional cases & how the diffrent UK's four nations differed in their devolved health policy differnces Using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/nicholas.robson/viz/Coivd-19Analysis/HowdidCOVID-19casesdeathsandvaccinationrolloutdifferacrosstheUKsfournationsanddiddevolvedhealthpolicydifferencesshowupinthedata)
+ | 🎄 [Simulated Christmas Stock]() | ??? | [Dashboard]() |
 
  ***
 
